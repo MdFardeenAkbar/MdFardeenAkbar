@@ -2,7 +2,13 @@
 
 <div align="center">
   <a href="https://github.com/KenanGain">
-    <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/blob/main/me1.jpg" alt="Md Fardeen Akbar" width="150" height="200" style="border-radius: 50%; border: 4px solid #4CAF50;">
+   <table>
+  <tr>
+    <td style="border: 4px solid #4CAF50; border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
+      <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/blob/main/me1.jpg" alt="Md Fardeen Akbar" width="150" height="200" style="border-radius: 50%; display: block;">
+    </td>
+  </tr>
+</table>
   </a>
 </div>
 
