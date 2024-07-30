@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/KenanGain">
-    <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/blob/main/me1.jpg" alt="Md Fardeen Akbar" width="200" height="250" style="border-radius: 15px; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
+    <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/blob/main/me1.jpg" alt="Md Fardeen Akbar" width="150" height="200" style="border-radius: 50%; border: 4px solid #4CAF50;">
   </a>
 </div>
 
