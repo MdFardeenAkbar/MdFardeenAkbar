@@ -28,7 +28,7 @@
   <tr>
     <td align="center">
       <a href="https://mdfardeenakbar.github.io/portfolio.io/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Md Fardeen Akbar">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Md+Fardeen+Akbar&size=square" alt="Md Fardeen Akbar">
       </a>
     </td>
     <td align="center">
@@ -38,7 +38,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/fardeen-akbar-418706216/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Md Fardeen Akbar">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Md+Fardeen+Akbar&size=square" alt="Md Fardeen Akbar">
       </a>
     </td>
   </tr>
