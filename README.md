@@ -154,8 +154,8 @@ solving skill.
   <td align="center" style="border: none;">
         <a href="https://www.instagram.com/fardeen1797/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
         <div>
-          <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-230%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
+          <img src="https://img.shields.io/badge/Instagram-13%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
+          <img src="https://img.shields.io/badge/Instagram-147%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
         </div>
       </td>
       <td align="center" style="border: none;">
@@ -163,10 +163,10 @@ solving skill.
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
     <div align="center">
       <div>
-      <img src="https://img.shields.io/badge/Discord-110%2B%20members-7289DA?style=flat-square&logo=discord" alt="Discord Members">
+      <img src="https://img.shields.io/badge/Discord-15%2B%20members-7289DA?style=flat-square&logo=discord" alt="Discord Members">
       </div>
       <div>
-      <img src="https://discord.com/api/guilds/577123830934274049/widget.png?style=banner3" alt="Discord Banner 3"/>
+      <img src="https://discord.com/api/guilds/631893681418272788/widget.png?style=banner3" alt="Discord Banner 3"/>
     </div>
       </div>
   </a>
