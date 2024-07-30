@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <a href="https://github.com/KenanGain">
+  <a href="https://github.com/MdFardeenAkbar">
    <table>
   <tr>
     <td style="border: 2px solid #4CAF50; border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
@@ -65,33 +65,35 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=MdFardeenAkbar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+Aspiring Engineer currently pursuing a B.Tech in Computer Science & Information Technology. Seeking to
+leverage my skills and passion to real-world challenges. Skilled in Java, C++, C, Javascript, with a decent problem
+solving skill.
 
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MdFardeenAkbar&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanGain&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdFardeenAkbar&custom_title=Fardeen's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFardeenAkbar&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdFardeenAkbar&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdFardeenAkbar&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
@@ -99,34 +101,34 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=MdFardeenAkbar&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Fardeen's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdFardeenAkbar&theme=highcontrast&hide_border=true">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/MdFardeenAkbar/Project5--Image-Search-Web-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdFardeenAkbar&repo=Project5--Image-Search-Web-App&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/weather-app-3d">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=weather-app-3d&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/MdFardeenAkbar/Project1-Weather-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdFardeenAkbar&repo=Project1-Weather-App&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/MdFardeenAkbar/Project2-to-do-list">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdFardeenAkbar&repo=Project2-to-do-list&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/MdFardeenAkbar/Project3-Notes-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdFardeenAkbar&repo=Project3-Notes-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -136,7 +138,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdFardeenAkbar&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -150,21 +152,21 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <table style="border: none;">
     <tr>
   <td align="center" style="border: none;">
-        <a href="https://www.instagram.com/knightgamer87/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+        <a href="https://www.instagram.com/fardeen1797/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
         <div>
           <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
           <img src="https://img.shields.io/badge/Instagram-230%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
         </div>
       </td>
       <td align="center" style="border: none;">
-  <a href="https://discord.gg/YdDyV6QqEN">
+  <a href="https://discordapp.com/users/577123830934274049">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
     <div align="center">
       <div>
       <img src="https://img.shields.io/badge/Discord-110%2B%20members-7289DA?style=flat-square&logo=discord" alt="Discord Members">
       </div>
       <div>
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
+      <img src="https://discord.com/api/guilds/577123830934274049/widget.png?style=banner3" alt="Discord Banner 3"/>
     </div>
       </div>
   </a>
@@ -175,17 +177,17 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">YouTube Stats</h3>
 
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC0s-qSy6A6oqj7hEa5IHicQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@itsnot2331)
 
-<h3 align="center">Leetcode Stats</h3>
+<h3 align="center">Hackerrank Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/fardeenakbar456?border=0&radius=20"/>
 </p>
 
 <h3 align="center">Steam Profile</h3>
 <p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198828144879/">
-  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
+  <a href="https://steamcommunity.com/profiles/76561198930549420/">
+  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198930549420&show_in_game_bg=true&show_recent_game_bg=true"/>
   </a>
 </p>
 
@@ -203,25 +205,17 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tr>
     <!-- Dev Profile -->
     <td align="center">
-      <a href="https://app.daily.dev/kenangain">
-        <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Kenan Gain's Dev Card"/>
+      <a href="https://app.daily.dev/fardeen45">
+        <img src="https://api.daily.dev/devcards/v2/xdcp2tRE7ACxsNbzI9ikY.png?r=5ur" width="356" alt="Md Fardeen Akbar's Dev Card"/>
       </a>
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
+      <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/tall/64e48fbfb128dce3cb6258e2?variant=dark&roadmaps=java%2Cjavascript" alt="roadmap.sh"/></a>   
     </td>
   </tr>
 </table>
-
-
-<h3 align="center">Stack overflow</h3>
-<div align="center">
-<a href="https://stackoverflow.com/users/21519409/kenan-gain">
-<img src="https://stackoverflow.com/users/flair/21519409.png" width="208" height="58" />
-</a>
-</div>
-
 
 
 </div>
@@ -338,9 +332,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
     </tr>
   </tbody>
 </table>
@@ -361,7 +352,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#000" rx="60"/><path fill="#fff" d="M96.0383 163.876C95.3427 163.877 94.655 163.728 94.0225 163.438C93.434 163.173 92.9035 162.795 92.4612 162.325C92.019 161.855 91.6737 161.303 91.445 160.699C91.2164 160.096 91.1089 159.453 91.1288 158.808C91.1486 158.163 91.2954 157.528 91.5607 156.94L107.456 121.693L107.521 121.555L123.016 87.1908C123.456 86.387 124.105 85.7164 124.894 85.2492C125.682 84.7821 126.582 84.5356 127.499 84.5356C128.416 84.5356 129.315 84.7821 130.104 85.2492C130.893 85.7164 131.542 86.387 131.982 87.1908L163.443 156.94C163.892 157.935 163.997 159.05 163.742 160.111C163.487 161.172 162.887 162.119 162.035 162.801C161.183 163.483 160.128 163.862 159.037 163.879C157.946 163.896 156.88 163.549 156.008 162.893L113.924 131.263L100.521 160.98C100.132 161.843 99.5023 162.576 98.707 163.09C97.9118 163.603 96.9851 163.876 96.0383 163.876V163.876ZM118.071 122.077L146.609 143.53L127.499 101.17L118.071 122.077Z"/><path fill="#E00" d="M127.499 215C110.193 215 93.2764 209.868 78.8872 200.253C64.4981 190.639 53.2831 176.973 46.6605 160.985C40.0379 144.996 38.3051 127.403 41.6813 110.43C45.0575 93.4565 53.3909 77.8655 65.6279 65.6285C77.8649 53.3914 93.4557 45.0578 110.429 41.6815C127.402 38.3051 144.995 40.0378 160.984 46.6602C176.972 53.2827 190.638 64.4975 200.253 78.8866C209.868 93.2757 215 110.193 215 127.498C214.975 150.697 205.748 172.939 189.344 189.343C172.94 205.747 150.698 214.974 127.499 215V215ZM127.499 49.8315C112.138 49.8317 97.1214 54.387 84.349 62.9215C71.5765 71.456 61.6217 83.5863 55.7433 97.7785C49.8649 111.971 48.327 127.587 51.3241 142.653C54.3212 157.72 61.7186 171.559 72.5809 182.421C83.4432 193.283 97.2826 200.68 112.349 203.676C127.415 206.673 143.032 205.135 157.224 199.256C171.416 193.377 183.546 183.422 192.08 170.649C200.614 157.876 205.169 142.86 205.169 127.498C205.145 106.907 196.955 87.1648 182.394 72.6043C167.833 58.0439 148.091 49.854 127.499 49.8315V49.8315Z" alt="Kubernetes"/></svg><br>Kubernetes
       </td>
       <td align="center" style="border: none;">
         <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
@@ -656,7 +647,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   <table align="center">
     <tr>
       <th align="center">
-        <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
+        <a href="https://www.buymeacoffee.com/MdFardeenAkbar" target="_blank">
           <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
         </a>
       </th>
@@ -678,10 +669,10 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
+        <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
       </td>
       <td align="center">
-       <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
+       <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
@@ -699,8 +690,8 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:MdFardeenAkbar2910@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=MdFardeenAkbar2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -722,7 +713,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
+⭐️ From [MdFardeenAkbar](https://github.com/MdFardeenAkbar) | Let's innovate together! 🚀
 
 
 </div>
