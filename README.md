@@ -4,8 +4,8 @@
   <a href="https://github.com/KenanGain">
    <table>
   <tr>
-    <td style="border: 4px solid #4CAF50; border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
-      <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/blob/main/me1.jpg" alt="Md Fardeen Akbar" width="150" height="200" style="border-radius: 50%; display: block;">
+    <td style="border: 2px solid #4CAF50; border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
+      <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/blob/main/me1.jpg" alt="Md Fardeen Akbar" width="200" height="250" style="border-radius: 50%; display: block;">
     </td>
   </tr>
 </table>
