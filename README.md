@@ -2,74 +2,54 @@
 
 <div align="center">
   <a href="https://github.com/KenanGain">
-    <img src="https://github.com/KenanGain/KenanGain/blob/main/Screenshot_20230128-144804490-01_AnyMaking (2)_AnyMaking.jpg" alt="Kenan Gain" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
+    <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/blob/main/me1.jpg" alt="Md Fardeen Akbar" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
   </a>
 </div>
 
-<h1 align="center">👋 Hello, I'm Kenan Gain</h1>
+<h1 align="center">👋 Hello, I'm Md Fardeen Akbar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;Software+Engineer;Editor;" alt="Typing SVG" />
 
 </p>
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  Coder | Tech Enthusiast | Gamer
 </p>
 
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.kenangain.com/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://mdfardeenakbar.github.io/portfolio.io/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Md Fardeen Akbar">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      <a href="https://www.instagram.com/fardeen1797/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@fardeen1797&size=square" alt="fardeen1797">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://facebook.com/kenan.gain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://www.linkedin.com/in/fardeen-akbar-418706216/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Md Fardeen Akbar">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://twitch.tv/knightgamer2910" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square" alt="knightgamer2910">
+      <a href="https://x.com/fardeen1479" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@fardeen1479&size=square" alt="Md Fardeen Akbar">
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/gain_kenan" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="KenanGain">
+      <a href="https://discordapp.com/users/577123830934274049" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Real+Gamer&size=square" alt="Real Gamer">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square" alt="Automated_Artistry">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="Knight Gamer">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KenanGain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://github.com/MdFardeenAkbar/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FMdFardeenAkbar&subtitle=%2FMd+Fardeen+Akbar&size=square" alt="Md Fardeen Akbar">
       </a>
     </td>
   </tr>
