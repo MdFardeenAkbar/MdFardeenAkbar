@@ -5,7 +5,7 @@
    <table>
   <tr>
     <td style="border: 2px solid #4CAF50; border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
-      <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/blob/main/me1.jpg" alt="Md Fardeen Akbar" width="200" height="250" style="border-radius: 50%; display: block;">
+      <img src="https://github.com/MdFardeenAkbar/MdFardeenAkbar/blob/main/me1-modified.png" alt="Md Fardeen Akbar" width="200" height="250" style="display: block;">
     </td>
   </tr>
 </table>
