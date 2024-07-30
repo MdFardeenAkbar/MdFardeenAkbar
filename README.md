@@ -168,7 +168,7 @@ solving skill.
   <td align="center" style="border: none;">
         <a href="https://www.instagram.com/fardeen1797/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
         <div>
-          <img src="https://img.shields.io/badge/Instagram-13%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
+          <img src="https://img.shields.io/badge/Instagram-13%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts"><br>
           <img src="https://img.shields.io/badge/Instagram-147%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
         </div>
       </td>
