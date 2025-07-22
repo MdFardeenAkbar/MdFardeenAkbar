@@ -567,8 +567,8 @@ solving skill.
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:fardeenakbar.01034@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=fardeenakbar.01034@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:fardeenakbar456@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=fardeenakbar456@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
