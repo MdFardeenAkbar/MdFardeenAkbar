@@ -140,7 +140,7 @@ solving skill.
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=MdFardeenAkbar&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
-
+/*
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -155,7 +155,7 @@ solving skill.
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
 </details>
-
+*/
 
 </div>
 
