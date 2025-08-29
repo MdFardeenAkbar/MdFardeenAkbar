@@ -37,7 +37,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/fardeen-akbar-418706216/" target="_blank">
+      <a href="" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Md+Fardeen+Akbar&size=square" alt="Md Fardeen Akbar">
       </a>
     </td>
